@@ -50,8 +50,8 @@ I enjoy turning complex problems into simple and maintainable code.
 
 | Project Name | Description |
 |-------------|-------------|
-| **pizza-order-java** | Java Swing based pizza ordering system with order management features |
-| **python-attendance** | Python project for managing student attendance |
+| **Digital Market Yard System** | Traditional market yards are manual and inefficient. This platform transforms agricultural trading by moving it online, making it faster and more transparent for farmers, merchants, and brokers. |
+| **SmartSpeand ** | SmartSpeand is a digital ledger and business management application designed for small and medium-sized businesses (MSMEs). |
 | **collage_Management** | Java project demonstrating OOP concepts and management system |
 | **Java-Programming** | Core Java programs from beginner to advanced level |
 | **Python-programing** | Python programs covering logic building and mini projects |
